@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BirthdayRemainder/static/css/main.477513fb.css",
+    "main.js": "/BirthdayRemainder/static/js/main.7e285028.js",
+    "static/js/787.f0812dca.chunk.js": "/BirthdayRemainder/static/js/787.f0812dca.chunk.js",
+    "index.html": "/BirthdayRemainder/index.html",
+    "main.477513fb.css.map": "/BirthdayRemainder/static/css/main.477513fb.css.map",
+    "main.7e285028.js.map": "/BirthdayRemainder/static/js/main.7e285028.js.map",
+    "787.f0812dca.chunk.js.map": "/BirthdayRemainder/static/js/787.f0812dca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477513fb.css",
+    "static/js/main.7e285028.js"
+  ]
+}
